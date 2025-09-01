@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1> Flipkart is having mobile offerds till 3oth sep2025 </h1>
+         <h1> Flipkart is having mobile offerds till 3oth </h1>
     </section>    
     <section id="about"><h1>This Is About</h1></section>
     <section id="product"><h1>This Is Product</h1></section>
@@ -107,4 +107,4 @@ h1{
     <section id="contact"><h1>This Is Contact</h1></section>
 
 </body>
-</html>
+<i/htmli>
